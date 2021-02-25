@@ -1,4 +1,4 @@
-### Implemented Text Classifier for-Gutenberg digital books
+### Implemented Text Classifier for Gutenberg digital books
 
 * Collected documents from the Gutenberg library, performed document segmentation, and
 labeled the document
