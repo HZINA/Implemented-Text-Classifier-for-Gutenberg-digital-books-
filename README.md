@@ -1,7 +1,6 @@
-## Implemented-Text-Classifier-for-Gutenberg-digital-books-
+### Implemented Text Classifier for-Gutenberg digital books
 
 * Collected documents from the Gutenberg library, performed document segmentation, and
-
 labeled the document
 
 * Performed feature engineering using bag of words, TF-IDF, and N-Gram techniques -NLTK
